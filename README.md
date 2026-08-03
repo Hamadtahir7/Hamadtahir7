@@ -1,7 +1,7 @@
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" alt="Hamad Tahir Banner" width="100%">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHo8DH5ec80ow/profile-displayphoto-crop_800_800/B4DZ0Z8FHSHMAI-/0/1774256679081?e=1787184000&v=beta&t=0hx1kJcgvhleWsUUsZAcySnjNTspBup3J3kz8m7P5J8" alt="Hamad Tahir Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Hamad Tahir 👋</h1> <h3 align="center">Full Stack Developer — React • Next.js • NestJS • PostgreSQL</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps;Learning+NestJS+%26+backend+architecture;BS+Software+Engineering+%40+IMS+Peshawar" alt="Typing SVG" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/hamadtahir7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:hamadtahir825@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
