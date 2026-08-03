@@ -32,19 +32,17 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 PReview — Autonomous Code Review Agent
-Capstone project: a GitHub App that reviews pull requests with repo-aware context. Indexes repos with tree-sitter + a vector store, retrieves relevant context before judging each hunk, and flags issues by severity (blocker / warning / nitpick).
-**Stack:** Next.js + Tailwind · NestJS + BullMQ/Redis · PostgreSQL + Qdrant · Octokit
+### 💰 LoanFlow
+A production-ready loan management system built with Next.js, Express.js, and MySQL.
 
-### 💸 PriceWise AI
-An AI-powered price comparison and cheaper-alternative finder web app.
-**Stack:** Next.js · Node.js · PostgreSQL
+### 🤝 SkillSwap Hub
+A skill exchange platform where users can connect and swap skills.
 
-### 💰 Loan Application System
-A loan management system with separate frontend and backend services.
-**Stack:** Next.js (`loan-frontend`) · Express.js (`loan-app`) · MySQL
+### ✅ Todo REST API
+A RESTful API with CRUD operations using Express.js and PostgreSQL.
 
----
+### 📚 NestJS Learning
+A collection of NestJS examples covering modules, controllers, services, guards, pipes, and authentication.
 
 ## 📊 GitHub Stats
 
