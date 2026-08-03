@@ -45,10 +45,9 @@ A RESTful API with CRUD operations using Express.js and PostgreSQL.
 A collection of NestJS examples covering modules, controllers, services, guards, pipes, and authentication.
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hamadtahir7&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamadtahir7&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hamadtahir7&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamadtahir7&layout=compact&theme=tokyonight" />
 </p>
 
 
