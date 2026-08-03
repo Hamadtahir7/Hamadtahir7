@@ -18,7 +18,7 @@
 - 🌱 Currently deep in **NestJS** and backend architecture
 - 💻 Building full-stack apps across Next.js, Express, and NestJS
 - 🚀 Interested in scalable backend systems, auth, and system design
-- 🎯 Goal: become a Backend Software Engineer
+- 🎯 Goal: become a FullStack Software Engineer
 
 ---
 
