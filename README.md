@@ -90,21 +90,6 @@
 
 ---
 
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/hamadtahir7/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-<a href="mailto:hamadtahir825@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
-
-</p>
-
----
 
 <h3 align="center">
 
